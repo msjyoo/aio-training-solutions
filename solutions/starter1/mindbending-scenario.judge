@@ -1,0 +1,14 @@
+core |       Reason      |   Time  
+ -----------+-------+-------------------+----------
+         #1 |  100  | correct           |   0.020s
+         #2 |  100  | correct           |   0.020s
+         #3 |  100  | correct           |   0.024s
+         #4 |  100  | correct           |   0.020s
+         #5 |  100  | correct           |   0.020s
+         #6 |  100  | correct           |   0.024s
+         #7 |  100  | correct           |   0.020s
+         #8 |  100  | correct           |   0.020s
+         #9 |  100  | correct           |   0.020s
+        #10 |  100  | correct           |   0.024s
+TOTAL: 100
+
